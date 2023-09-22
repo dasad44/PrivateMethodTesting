@@ -4,7 +4,7 @@ namespace PrivateMethodTesting.Helpers
 {
     public static class PrivateMethodTestingHelper
     {
-        internal static TReturn InvokePrivateMethod<TReturn>(
+        public static TReturn InvokePrivateMethod<TReturn>(
             this object instance,
             string methodName,
             params object[] parameters)

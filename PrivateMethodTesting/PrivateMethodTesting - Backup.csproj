@@ -10,8 +10,6 @@
     <Product>UTestingHelpers</Product>
     <PackageProjectUrl></PackageProjectUrl>
     <RepositoryUrl>https://github.com/dasad44/PrivateMethodTesting</RepositoryUrl>
-    <PackageTags>Test Testing UT SoChi UnitTest UnitTesting UTestingHelpers Helpers Private PrivateMethodTest PrivateMethod</PackageTags>
-    <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>
